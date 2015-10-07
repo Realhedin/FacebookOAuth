@@ -2,9 +2,9 @@
 Test application to show work of QAuth protocol to login via Facebook
 
 ## About application
-This small test java application allows use to login into Facebook Web Application,
+This small test java application allows to use login into Facebook Web Application,
 using Facebook account.<br>
-This procedure is done via QAuth protocol
+This procedure is done via QAuth protocol<br>
 (application uses token from Facebook instead of user's login/password).
 
 
@@ -16,11 +16,12 @@ in FBConnection.java.
 
 
 ## Resources
-FacebookOAuth is written based on a sources and tutorial from<br>
+FacebookOAuth is written based on a source from tutorial by <br>
 http://javapapers.com/java/java-facebook-login-with-oauth-authentication/.<br>
 There are small changes in code + project is made using Maven build automation tool.
 
 
 ## How to run
 The application could be run via Jetty plugin. <br>
-After starting of web server - go to page: http://localhost:8080/FacebookOAuth/.
+After starting of web server - go to page:
+<a href="http://localhost:8080/FacebookOAuth/">http://localhost:8080/FacebookOAuth/</a>.
