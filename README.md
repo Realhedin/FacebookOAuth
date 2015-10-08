@@ -2,8 +2,7 @@
 Test application to show work of QAuth protocol to login via Facebook
 
 ## About application
-This small test java application allows to use login into Facebook Web Application,
-using Facebook account.<br>
+This small test java application allows to use Facebook account (via Facebook Web Application) to login into this application.<br>
 This procedure is done via QAuth protocol<br>
 (application uses token from Facebook instead of user's login/password).
 
